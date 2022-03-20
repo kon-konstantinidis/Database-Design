@@ -1,4 +1,6 @@
 # DatabaseDesign
+Design and implementation of a database as the back-end backbone of a self checkout system for multi-product (optionally) chain stores, managing both the sales and the inventory/logistics departments
+
 
 The following files are included in the repository:
 - DBdump.sql: SQL script containing the SQL dump code for the creation of structures & data of selfcheckoutdb
